@@ -1,2 +1,2 @@
 # kotlinek
-Kotlin exercises
+Kotlin exercises and small application
