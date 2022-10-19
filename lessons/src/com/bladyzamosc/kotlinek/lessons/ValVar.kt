@@ -1,11 +1,9 @@
 package com.bladyzamosc.kotlinek.lessons
 
 /**
- * User: Z6EKI
+ * User: Bladyzamosc
  * Date: 18.10.2022
  */
-
-
 fun main(vararg args: String) {
     var number = 17
     println("number = $number")
