@@ -30,9 +30,12 @@ fun main(vararg args: String) {
 
     val character: Char = '#'
     val text: String = "Learning about Kotlin's data types"
+    val multiline: String = """Learning about Kotlin's data types
+        multiline""".trimMargin()
 
     println(character)
     println(text)
+    println(multiline)
 
     val yes: Boolean = true
     val no: Boolean = false
